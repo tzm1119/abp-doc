@@ -1,0 +1,26 @@
+{
+    "items": [
+        {
+            "text": "基础",
+            "items": [
+                {
+                    "text": "doc1",
+                    "path": "Getting-Started.md"
+                },
+                {
+                    "text": "readme",
+                    "items": [
+                        {
+                            "text": "使用ASP.NET Core Web Application",
+                            "path": "readme.md"
+                        },
+                        {
+                            "text": "使用Console Application",
+                            "path": "Getting-Started-Console-Application.md"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
